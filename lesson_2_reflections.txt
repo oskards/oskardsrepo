@@ -1,3 +1,11 @@
 1) I don't know.
 
 2) Not so much value.
+
+3) I can decide on which files to add to a commit.
+
+4) Experimental purposes or new features.
+
+5) They give a logical and structural overview.
+
+6) A single, combined branch is the result.
