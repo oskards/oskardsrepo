@@ -1,3 +1,5 @@
 1) For collaboration purposes.
 
 2) Whenever files or certain branches are very large.
+
+3) Clones are copies of a git repository. Forks are clones on the GitHub system. Branches are versions of code.
